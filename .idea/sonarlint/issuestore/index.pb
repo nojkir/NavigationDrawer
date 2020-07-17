@@ -1,0 +1,19 @@
+
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+l
+<app/src/main/java/pl/nojkir/navigationdrawer/MainActivity.kt,c\9\c9a8bde4906f4fd1bcd4c3909538c482db43b5c3
+p
+@app/src/main/java/pl/nojkir/navigationdrawer/PrzysiadFragment.kt,4\2\42b799400d9071b921f4ef4e35f5a4452f34d623
+r
+Bapp/src/main/java/pl/nojkir/navigationdrawer/KalkulatorFragment.kt,4\2\42b3c50b222f0ce649607eea85bb6cf0fadc46f0
+r
+Bapp/src/main/java/pl/nojkir/navigationdrawer/WyciskanieFragment.kt,0\b\0bcc3eed907eef8a829a2d269c4576ae7fe01204
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+n
+>app/src/main/java/pl/nojkir/navigationdrawer/MartwyFragment.kt,c\1\c1f213ff42fb59c22a72d44fab8b9022f835e2a2
+l
+<app/src/main/java/pl/nojkir/navigationdrawer/MainFragment.kt,4\1\413f8f374b3624825b7afe528df0c886dba21da4
+m
+=app/src/main/java/pl/nojkir/navigationdrawer/LoginFragment.kt,2\d\2dab1d8fe198ef599def796aa3af8ad901be7681

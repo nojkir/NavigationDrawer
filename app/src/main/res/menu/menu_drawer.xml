@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Stoper" app:showAsAction="ifRoom" android:id="@+id/nav_stoper" android:icon="@drawable/ic_timer"/>
+    <item android:title="Przysiad" app:showAsAction="ifRoom" android:id="@+id/nav_przysiad" android:icon="@drawable/ic_fitness"/>
+    <item android:title="Martwy ciąg" app:showAsAction="ifRoom" android:id="@+id/nav_martwy" android:icon="@drawable/ic_fitness"/>
+    <item android:title="Wyciskanie lezac" app:showAsAction="ifRoom" android:id="@+id/nav_wyciskanie" android:icon="@drawable/ic_fitness"/>
+    <item android:title="1 RM kalkulator" app:showAsAction="ifRoom" android:id="@+id/nav_kalkulator" android:icon="@drawable/ic_1rm"/>
+</menu>
